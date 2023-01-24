@@ -1,9 +1,10 @@
 *{
-    font-family: 'EB Garamond', serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-.btn{
-    background: #B68C5A; 
-    border: 0; 
-    color: #000; 
+.button{
+    background: #f18603; 
+    border: 5px; 
+    color: rgb(255, 118, 6); 
+    border-radius: 5px;
 }
