@@ -1,0 +1,172 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+  
+
+                                                            /* nav */
+
+.button-primary {
+
+
+    height: 50px;
+    border-radius: 10px;
+    background-color: #fd6e0a;
+    color: #0b0b0b;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 0px; 
+    border: 0;
+    padding: 18px px;  
+     gap: 50px;
+    /* margin-top: 30px; */
+    margin-bottom: 20px;
+
+}
+
+.button-primary2{
+
+
+    height: 50px;
+    border-radius: 10px;
+    background-color: #fd6e0a;
+    color: #0b0b0b;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 0px; 
+    border: 0;
+    padding: 18px px;  
+     gap: 50px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+
+}
+
+
+
+.display {
+    display: flex;
+  justify-content:space-around;
+  margin-top: 40px;
+    
+}
+
+
+
+.nav-link{
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.nav-link a{
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    font-size: larger;
+    gap: 20px;
+
+
+}
+
+.button{
+     margin-top: 15px;
+}
+
+.nav-item button:hover{
+    font-weight: 800;
+}
+
+.nav-item {
+    display: flex;
+}
+
+
+.bg-image{
+    margin-top: 50px;
+
+}
+
+
+
+.area{
+    margin-top: 50px;
+}
+
+
+
+.image-circle{
+
+width: 100px;
+height: 100px;
+border-radius: 50%;
+
+}
+
+
+.question{
+
+    height: 500px;
+    width: 500px;
+    margin-left: 30px;
+
+}
+
+
+
+/* Extra part start */
+
+
+.connect-info{
+    display: flex;
+    margin-top: 100px;
+    background: #FFF8F3;
+   padding: 100px 100px;
+    gap: 100px;
+    border-radius: 50px;
+
+}
+
+.connect-head{
+    font-weight: 700;
+font-size: 25px;
+margin-bottom: 20px;
+}
+
+.connect{
+
+    text-decoration: none;
+}
+
+[type='text'], [type='email'],textarea{
+   margin-bottom: 25px;
+   border: 0;
+   width: 200px;
+height: 60px;
+border-radius: 10px;
+padding: 10px 20px;
+}
+
+textarea{
+    height: 150px;
+}
+
+.connect-desc{
+
+    font-weight: 400;
+font-size: 13px;
+line-height: 28px;
+margin-bottom: 10px;
+
+
+color: #474747;
+
+}
+
+.message{
+    margin-left: 700px;
+}
+
+
+
+
+/* Extra part End */
+
